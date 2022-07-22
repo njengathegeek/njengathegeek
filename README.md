@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chris njenga 💻" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris njenga 💻" height="30" width="40" /></a>
-<a href="https://dribbble.com/chrispo njenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="chrispo njenga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chris-njenga-%F0%9F%92%BB-41b1991ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris njenga 💻" height="30" width="40" /></a>
+<a href="https://dribbble.com/chris_gitau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="chrispo njenga" height="30" width="40" /></a>
 <a href="https://www.behance.net/chrisponjenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chrispo njenga" height="30" width="40" /></a>
 <a href="https://medium.com/@chris_gitau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chris_gitau" height="30" width="40" /></a>
 </p>
