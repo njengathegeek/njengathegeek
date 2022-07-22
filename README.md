@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)]
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Chris Njenga</h1>
 <h3 align="center">A passionate developer from Nairobi Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"
