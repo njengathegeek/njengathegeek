@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chris_gitau](https://medium.com/@chris_gitau)
 
-- 💬 Ask me about   **Flutter/ Webflow/ UX/ Frontend**
+- 💬 Ask me about   **UX Design/ Flutter/ Webflow/ Frontend**
 
 - 📫 How to reach me **chrispogitau97@gmail.com**
 
