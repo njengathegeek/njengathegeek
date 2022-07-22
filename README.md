@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-njenga&label=Profile%20views&color=0e75b6&style=flat" alt="chris-njenga" /> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Node JS, Python**
 
 - 📝 I regularly write articles on [https://medium.com/@chris_gitau](https://medium.com/@chris_gitau)
 
-- 💬 Ask me about **Flutter/Webflow/Frontend**
+- 💬 Ask me about **  Flutter/ Webflow/ UX/ Frontend**
 
 - 📫 How to reach me **chrispogitau97@gmail.com**
 
