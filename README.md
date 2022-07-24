@@ -23,7 +23,7 @@
 <a href="https://medium.com/@chris_gitau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chris_gitau" height="30" width="40" /></a>
 </p>
 <br>
-
+<h3 align="left">Most Used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-njenga&show_icons=true&locale=en&layout=compact&theme=radical" alt="chris-njenga" /></p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
