@@ -1,6 +1,8 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Chris Njenga</h1>
-<h3 align="center">A passionate developer from Nairobi Kenya</h3>
+<h3 align="center">A passionate UX Designer & developer from Nairobi, Kenya</h3>
+<br>
+<br>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-njenga&label=Profile%20views&color=0e75b6&style=flat" alt="chris-njenga" /> </p>
