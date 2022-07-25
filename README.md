@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm not a gamer, I'm a Geek</h1>
-<h3 align="center">A passionate UX Designer & Developer from Nairobi, Kenya</h3>
+<h3 align="center">I'M a passionate UX Designer & Developer from Nairobi, Kenya</h3>
 <br>
 <br>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"
