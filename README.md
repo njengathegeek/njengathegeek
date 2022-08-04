@@ -14,6 +14,7 @@
 - 💬 Ask me about   **UX Design/ Flutter/ Webflow/ Frontend**
 
 - 📫 How to reach me **chrispogitau97@gmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
