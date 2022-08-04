@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [bit.ly/3d5lcUm](https://medium.com/@chris_gitau)
 
-- 💬 Ask me about   **Flutter/ Webflow/ Frontend**
+- 💬 Ask me about   ** MongoDB / Cinema 4D**
 
 - 📫 How to reach me **chrispogitau97@gmail.com**
 <br>
