@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Node JS, Python**
 
-- 📝 I regularly write articles on [https://medium.com/@chris_gitau](https://medium.com/@chris_gitau)
+- 📝 I regularly write articles on [bit.ly/3d5lcUm](https://medium.com/@chris_gitau)
 
-- 💬 Ask me about   **UX Design/ Flutter/ Webflow/ Frontend**
+- 💬 Ask me about   **Flutter/ Webflow/ Frontend**
 
 - 📫 How to reach me **chrispogitau97@gmail.com**
 <br>
