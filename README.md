@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-njenga&label=Profile%20views&color=0e75b6&style=flat" alt="chris-njenga" /> </p>
 
-- 🌱 I’m currently learning **Node JS, Python**
+- 💬 Ask me about   **UX Design / Flutter / Front-end**
 
 - 📝 I regularly write articles on [bit.ly/3d5lcUm](https://medium.com/@chris_gitau)
 
-- 💬 Ask me about   **MongoDB / Cinema 4D**
+- 🌱 I’m currently learning ** MongoDB / Cinema 4D**
 
 - 📫 How to reach me **chrispogitau97@gmail.com**
 <br>
