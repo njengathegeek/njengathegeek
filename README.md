@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [bit.ly/3d5lcUm](https://medium.com/@chris_gitau)
 
-- 🌱 I’m currently learning ** MongoDB / Cinema 4D**
+- 🌱 I’m currently learning **MongoDB / Cinema 4D**
 
 - 📫 How to reach me **chrispogitau97@gmail.com**
 <br>
