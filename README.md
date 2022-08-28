@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
-<h1 align="center">Hi 👋, I'm not a gamer, I'm a Geek</h1>
+<h1 align="center">Hello howdy👋, I'm not a gamer, I'm a Geek 💻</h1>
 <h3 align="center">I'm a passionate UX Designer & Developer from Nairobi, Kenya</h3>
 <br>
 <br>
