@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/chris-njenga-%F0%9F%92%BB-41b1991ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris njenga 💻" height="30" width="40" /></a>
 <a href="https://dribbble.com/chris_gitau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="chrispo njenga" height="30" width="40" /></a>
 <a href="https://www.behance.net/chrisponjenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chrispo njenga" height="30" width="40" /></a>
-<a href="https://medium.com/@chris_gitau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chris_gitau" height="30" width="40" /></a>
+<a href="https://medium.com/@chris_gitau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@njenga_the_geek" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left"> GitHub Stats </h3>
@@ -30,9 +30,11 @@
   <tr>
   <td>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-njenga&show_icons=true&locale=en&layout=compact&theme=radical" alt="chris-njenga" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=njenga-the-geek
+&show_icons=true&locale=en&layout=compact&theme=radical" alt="chris-njenga" />
 </td>
-      <td><img align="center"  src="https://github-readme-stats.vercel.app/api?username=Chris-njenga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats"></td>
+      <td><img align="center"  src="https://github-readme-stats.vercel.app/api?username=njenga-the-geek
+&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats"></td>
   </tr>   
 </table>
 </p>
