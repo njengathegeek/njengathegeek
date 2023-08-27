@@ -6,13 +6,10 @@
 <br>
 <img align="right" alt="coding" width="360" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"
 
-- 💬 Ask me about **UX Design / Flutter / Mobile Visual Design**
-
-- 📝 I regularly write articles on [bit.ly/3d5lcUm](https://medium.com/@chris_gitau)
-
-- 🌱 I’m currently learning **MongoDB / Cinema 4D**
-
-- 📫 How to reach me **chrispogitau97@gmail.com**
+- Ask me about **UX Design / Flutter / Mobile Visual Design**  
+- I regularly write articles on [bit.ly/3d5lcUm](https://medium.com/@chris_gitau)  
+- I’m currently learning **MongoDB / Cinema 4D**  
+- How to reach me **chrispogitau97@gmail.com**
   <br>
 
 <h3 align="left">Connect with me:</h3>
